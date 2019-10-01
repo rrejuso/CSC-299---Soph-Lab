@@ -1,0 +1,2569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d7"/>
+<key attr.name="Names" attr.type="string" for="node" id="d6"/>
+<key attr.name="budget" attr.type="double" for="node" id="d5"/>
+<key attr.name="gross" attr.type="double" for="node" id="d4"/>
+<key attr.name="_expanded" attr.type="long" for="node" id="d3"/>
+<key attr.name="_depth" attr.type="long" for="node" id="d2"/>
+<key attr.name="bipartite" attr.type="long" for="node" id="d1"/>
+<key attr.name="label" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="1200">
+  <data key="d0">&lt;Alvin_and_the_Chipmunks:_Chipwrecked&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">80000000.0</data>
+  <data key="d5">342700000.0</data>
+  <data key="d6">&lt;Alvin_and_the_Chipmunks:_Chipwrecked&gt;</data>
+</node>
+<node id="907">
+  <data key="d0">&lt;Mean_Streets&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">500000.0</data>
+  <data key="d5">3000000.0</data>
+  <data key="d6">&lt;Mean_Streets&gt;</data>
+</node>
+<node id="1207">
+  <data key="d0">&lt;Going_the_Distance_(2010_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">32000000.0</data>
+  <data key="d5">42100000.0</data>
+  <data key="d6">&lt;Going_the_Distance_(2010_film)&gt;</data>
+</node>
+<node id="985">
+  <data key="d0">&lt;Mad_Dog_and_Glory&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">19000000.0</data>
+  <data key="d5">10688490.0</data>
+  <data key="d6">&lt;Mad_Dog_and_Glory&gt;</data>
+</node>
+<node id="1903">
+  <data key="d0">&lt;The_Deer_Hunter&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">15000000.0</data>
+  <data key="d5">49000000.0</data>
+  <data key="d6">&lt;The_Deer_Hunter&gt;</data>
+</node>
+<node id="898">
+  <data key="d0">&lt;Little_Fockers&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">100000000.0</data>
+  <data key="d5">310700000.0</data>
+  <data key="d6">&lt;Little_Fockers&gt;</data>
+</node>
+<node id="819">
+  <data key="d0">&lt;Paranoia_(2013_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">15.0</data>
+  <data key="d5">13800000.0</data>
+  <data key="d6">&lt;Paranoia_(2013_film)&gt;</data>
+</node>
+<node id="1446">
+  <data key="d0">&lt;Legion_(2010_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">26000000.0</data>
+  <data key="d5">67900000.0</data>
+  <data key="d6">&lt;Legion_(2010_film)&gt;</data>
+</node>
+<node id="114">
+  <data key="d0">&lt;The_Mummy_Returns&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">98000000.0</data>
+  <data key="d5">433000000.0</data>
+  <data key="d6">&lt;The_Mummy_Returns&gt;</data>
+</node>
+<node id="1324">
+  <data key="d0">&lt;John_Carter_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">250.0</data>
+  <data key="d5">284100000.0</data>
+  <data key="d6">&lt;John_Carter_(film)&gt;</data>
+</node>
+<node id="1609">
+  <data key="d0">&lt;Now_You_See_Me_2&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">90000000.0</data>
+  <data key="d5">334900000.0</data>
+  <data key="d6">&lt;Now_You_See_Me_2&gt;</data>
+</node>
+<node id="1426">
+  <data key="d0">&lt;Battle:_Los_Angeles&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">70000000.0</data>
+  <data key="d5">211800000.0</data>
+  <data key="d6">&lt;Battle:_Los_Angeles&gt;</data>
+</node>
+<node id="2085">
+  <data key="d0">&lt;Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">185000000.0</data>
+  <data key="d5">786600000.0</data>
+  <data key="d6">&lt;Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull&gt;</data>
+</node>
+<node id="1058">
+  <data key="d0">&lt;Couples_Retreat&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">171800000.0</data>
+  <data key="d6">&lt;Couples_Retreat&gt;</data>
+</node>
+<node id="449">
+  <data key="d0">&lt;Cruel_Intentions&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">10500000.0</data>
+  <data key="d5">75900000.0</data>
+  <data key="d6">&lt;Cruel_Intentions&gt;</data>
+</node>
+<node id="1168">
+  <data key="d0">&lt;Basquiat_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">3300000.0</data>
+  <data key="d5">3000000.0</data>
+  <data key="d6">&lt;Basquiat_(film)&gt;</data>
+</node>
+<node id="859">
+  <data key="d0">&lt;Blow_Out&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">18000000.0</data>
+  <data key="d5">12000000.0</data>
+  <data key="d6">&lt;Blow_Out&gt;</data>
+</node>
+<node id="679">
+  <data key="d0">&lt;Red_Planet_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">80000000.0</data>
+  <data key="d5">33500000.0</data>
+  <data key="d6">&lt;Red_Planet_(film)&gt;</data>
+</node>
+<node id="1361">
+  <data key="d0">&lt;Better_Luck_Tomorrow&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">250000.0</data>
+  <data key="d5">3800000.0</data>
+  <data key="d6">&lt;Better_Luck_Tomorrow&gt;</data>
+</node>
+<node id="1727">
+  <data key="d0">&lt;Blast_from_the_Past_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">35000000.0</data>
+  <data key="d5">40263020.0</data>
+  <data key="d6">&lt;Blast_from_the_Past_(film)&gt;</data>
+</node>
+<node id="865">
+  <data key="d0">&lt;The_Taking_of_Pelham_123_(2009_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">100000000.0</data>
+  <data key="d5">150200000.0</data>
+  <data key="d6">&lt;The_Taking_of_Pelham_123_(2009_film)&gt;</data>
+</node>
+<node id="1165">
+  <data key="d0">&lt;RoboCop_(2014_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">100000000.0</data>
+  <data key="d5">242700000.0</data>
+  <data key="d6">&lt;RoboCop_(2014_film)&gt;</data>
+</node>
+<node id="1004">
+  <data key="d0">&lt;Playing_for_Keeps_(2012_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">35000000.0</data>
+  <data key="d5">24086455.0</data>
+  <data key="d6">&lt;Playing_for_Keeps_(2012_film)&gt;</data>
+</node>
+<node id="2238">
+  <data key="d0">&lt;G.I._Joe:_The_Rise_of_Cobra&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">0</data>
+  <data key="d4">175000000.0</data>
+  <data key="d5">302500000.0</data>
+  <data key="d6">&lt;G.I._Joe:_The_Rise_of_Cobra&gt;</data>
+</node>
+<node id="699">
+  <data key="d0">&lt;The_Ghost_Writer_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">45000000.0</data>
+  <data key="d5">60222298.0</data>
+  <data key="d6">&lt;The_Ghost_Writer_(film)&gt;</data>
+</node>
+<node id="1912">
+  <data key="d0">&lt;Heaven's_Gate_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">44000000.0</data>
+  <data key="d5">3500000.0</data>
+  <data key="d6">&lt;Heaven's_Gate_(film)&gt;</data>
+</node>
+<node id="1532">
+  <data key="d0">&lt;Welcome_to_Collinwood&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">12000000.0</data>
+  <data key="d5">336620.0</data>
+  <data key="d6">&lt;Welcome_to_Collinwood&gt;</data>
+</node>
+<node id="1789">
+  <data key="d0">&lt;Mindhunters&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">27000000.0</data>
+  <data key="d5">21148829.0</data>
+  <data key="d6">&lt;Mindhunters&gt;</data>
+</node>
+<node id="116">
+  <data key="d0">&lt;The_Rundown&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">85000000.0</data>
+  <data key="d5">80900000.0</data>
+  <data key="d6">&lt;The_Rundown&gt;</data>
+</node>
+<node id="1393">
+  <data key="d0">&lt;Gamer_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">50000000.0</data>
+  <data key="d5">40800000.0</data>
+  <data key="d6">&lt;Gamer_(film)&gt;</data>
+</node>
+<node id="118">
+  <data key="d0">&lt;Hercules_(2014_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">100000000.0</data>
+  <data key="d5">244800000.0</data>
+  <data key="d6">&lt;Hercules_(2014_film)&gt;</data>
+</node>
+<node id="1256">
+  <data key="d0">&lt;U_Turn_(1997_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">19000000.0</data>
+  <data key="d5">6600000.0</data>
+  <data key="d6">&lt;U_Turn_(1997_film)&gt;</data>
+</node>
+<node id="1152">
+  <data key="d0">&lt;The_Contender_(2000_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">22361811.0</data>
+  <data key="d6">&lt;The_Contender_(2000_film)&gt;</data>
+</node>
+<node id="1394">
+  <data key="d0">&lt;2_Fast_2_Furious&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">76000000.0</data>
+  <data key="d5">236300000.0</data>
+  <data key="d6">&lt;2_Fast_2_Furious&gt;</data>
+</node>
+<node id="673">
+  <data key="d0">&lt;Traffic_(2000_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">48000000.0</data>
+  <data key="d5">207500000.0</data>
+  <data key="d6">&lt;Traffic_(2000_film)&gt;</data>
+</node>
+<node id="1175">
+  <data key="d0">&lt;Air_Force_One_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">85000000.0</data>
+  <data key="d5">315100000.0</data>
+  <data key="d6">&lt;Air_Force_One_(film)&gt;</data>
+</node>
+<node id="119">
+  <data key="d0">&lt;G.I._Joe:_Retaliation&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">130000000.0</data>
+  <data key="d5">375700000.0</data>
+  <data key="d6">&lt;G.I._Joe:_Retaliation&gt;</data>
+</node>
+<node id="816">
+  <data key="d0">&lt;The_Hunger_Games_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">78000000.0</data>
+  <data key="d5">694400000.0</data>
+  <data key="d6">&lt;The_Hunger_Games_(film)&gt;</data>
+</node>
+<node id="1411">
+  <data key="d0">&lt;Takers&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">32000000.0</data>
+  <data key="d5">69100000.0</data>
+  <data key="d6">&lt;Takers&gt;</data>
+</node>
+<node id="1499">
+  <data key="d0">&lt;Once_Upon_a_Time_in_Mexico&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">29000000.0</data>
+  <data key="d5">98100000.0</data>
+  <data key="d6">&lt;Once_Upon_a_Time_in_Mexico&gt;</data>
+</node>
+<node id="1212">
+  <data key="d0">&lt;The_Conspirator&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">25000000.0</data>
+  <data key="d5">15478800.0</data>
+  <data key="d6">&lt;The_Conspirator&gt;</data>
+</node>
+<node id="1201">
+  <data key="d0">&lt;Alvin_and_the_Chipmunks:_The_Road_Chip&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">90000000.0</data>
+  <data key="d5">234800000.0</data>
+  <data key="d6">&lt;Alvin_and_the_Chipmunks:_The_Road_Chip&gt;</data>
+</node>
+<node id="1899">
+  <data key="d0">&lt;The_Stepford_Wives_(2004_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">90000000.0</data>
+  <data key="d5">102001626.0</data>
+  <data key="d6">&lt;The_Stepford_Wives_(2004_film)&gt;</data>
+</node>
+<node id="1921">
+  <data key="d0">&lt;The_Power_of_Few&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">3500000.0</data>
+  <data key="d5">25000.0</data>
+  <data key="d6">&lt;The_Power_of_Few&gt;</data>
+</node>
+<node id="1745">
+  <data key="d0">&lt;Definitely,_Maybe&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">7000000.0</data>
+  <data key="d5">55447968.0</data>
+  <data key="d6">&lt;Definitely,_Maybe&gt;</data>
+</node>
+<node id="1202">
+  <data key="d0">&lt;Alvin_and_the_Chipmunks:_The_Squeakquel&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">70000000.0</data>
+  <data key="d5">443140005.0</data>
+  <data key="d6">&lt;Alvin_and_the_Chipmunks:_The_Squeakquel&gt;</data>
+</node>
+<node id="563">
+  <data key="d0">&lt;Spy_Kids_(franchise)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">154000000.0</data>
+  <data key="d5">550200000.0</data>
+  <data key="d6">&lt;Spy_Kids_(franchise)&gt;</data>
+</node>
+<node id="612">
+  <data key="d0">&lt;Confidence_(2003_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">15000000.0</data>
+  <data key="d5">23014206.0</data>
+  <data key="d6">&lt;Confidence_(2003_film)&gt;</data>
+</node>
+<node id="1740">
+  <data key="d0">&lt;Runaway_Jury&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">80200000.0</data>
+  <data key="d6">&lt;Runaway_Jury&gt;</data>
+</node>
+<node id="1453">
+  <data key="d0">&lt;Chaos_(2005_Capitol_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">30000000.0</data>
+  <data key="d5">7000000.0</data>
+  <data key="d6">&lt;Chaos_(2005_Capitol_film)&gt;</data>
+</node>
+<node id="1161">
+  <data key="d0">&lt;A_Christmas_Carol_(2009_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">175.0</data>
+  <data key="d5">325300000.0</data>
+  <data key="d6">&lt;A_Christmas_Carol_(2009_film)&gt;</data>
+</node>
+<node id="363">
+  <data key="d0">&lt;The_Moderns&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">5000000.0</data>
+  <data key="d5">2011497.0</data>
+  <data key="d6">&lt;The_Moderns&gt;</data>
+</node>
+<node id="564">
+  <data key="d0">&lt;Spy_Kids_2:_The_Island_of_Lost_Dreams&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">38000000.0</data>
+  <data key="d5">119700000.0</data>
+  <data key="d6">&lt;Spy_Kids_2:_The_Island_of_Lost_Dreams&gt;</data>
+</node>
+<node id="369">
+  <data key="d0">&lt;Happily_N'Ever_After&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">47000000.0</data>
+  <data key="d5">38000000.0</data>
+  <data key="d6">&lt;Happily_N'Ever_After&gt;</data>
+</node>
+<node id="1538">
+  <data key="d0">&lt;Punch-Drunk_Love&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">25000000.0</data>
+  <data key="d5">24700000.0</data>
+  <data key="d6">&lt;Punch-Drunk_Love&gt;</data>
+</node>
+<node id="111">
+  <data key="d0">&lt;The_Fast_and_the_Furious&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">759000000.0</data>
+  <data key="d5">3900000000.0</data>
+  <data key="d6">&lt;The_Fast_and_the_Furious&gt;</data>
+</node>
+<node id="903">
+  <data key="d0">&lt;Red_Dragon_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">78000000.0</data>
+  <data key="d5">209100000.0</data>
+  <data key="d6">&lt;Red_Dragon_(film)&gt;</data>
+</node>
+<node id="813">
+  <data key="d0">&lt;The_Hunger_Games:_Mockingjay_–_Part_2&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">160000000.0</data>
+  <data key="d5">653400000.0</data>
+  <data key="d6">&lt;The_Hunger_Games:_Mockingjay_–_Part_2&gt;</data>
+</node>
+<node id="1589">
+  <data key="d0">&lt;Now_You_See_Me_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">75000000.0</data>
+  <data key="d5">351700000.0</data>
+  <data key="d6">&lt;Now_You_See_Me_(film)&gt;</data>
+</node>
+<node id="1069">
+  <data key="d0">&lt;Swingers_(1996_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">200000.0</data>
+  <data key="d5">4600000.0</data>
+  <data key="d6">&lt;Swingers_(1996_film)&gt;</data>
+</node>
+<node id="871">
+  <data key="d0">&lt;Domestic_Disturbance&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">75000000.0</data>
+  <data key="d5">54249294.0</data>
+  <data key="d6">&lt;Domestic_Disturbance&gt;</data>
+</node>
+<node id="520">
+  <data key="d0">&lt;Role_Models&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">28000000.0</data>
+  <data key="d5">92400000.0</data>
+  <data key="d6">&lt;Role_Models&gt;</data>
+</node>
+<node id="1376">
+  <data key="d0">&lt;Pitch_Black_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">23000000.0</data>
+  <data key="d5">53200000.0</data>
+  <data key="d6">&lt;Pitch_Black_(film)&gt;</data>
+</node>
+<node id="998">
+  <data key="d0">&lt;Jennifer_8&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">11390479.0</data>
+  <data key="d6">&lt;Jennifer_8&gt;</data>
+</node>
+<node id="863">
+  <data key="d0">&lt;The_Thin_Red_Line_(1998_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">52000000.0</data>
+  <data key="d5">98100000.0</data>
+  <data key="d6">&lt;The_Thin_Red_Line_(1998_film)&gt;</data>
+</node>
+<node id="923">
+  <data key="d0">&lt;The_Grand_Budapest_Hotel&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">23000000.0</data>
+  <data key="d5">174800000.0</data>
+  <data key="d6">&lt;The_Grand_Budapest_Hotel&gt;</data>
+</node>
+<node id="1390">
+  <data key="d0">&lt;Crash_(2004_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">6500000.0</data>
+  <data key="d5">98400000.0</data>
+  <data key="d6">&lt;Crash_(2004_film)&gt;</data>
+</node>
+<node id="610">
+  <data key="d0">&lt;Duets_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">16000000.0</data>
+  <data key="d5">4739023.0</data>
+  <data key="d6">&lt;Duets_(film)&gt;</data>
+</node>
+<node id="1374">
+  <data key="d0">&lt;Find_Me_Guilty&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">13000000.0</data>
+  <data key="d5">2600000.0</data>
+  <data key="d6">&lt;Find_Me_Guilty&gt;</data>
+</node>
+<node id="1070">
+  <data key="d0">&lt;The_Lost_World:_Jurassic_Park&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">73000000.0</data>
+  <data key="d5">618600000.0</data>
+  <data key="d6">&lt;The_Lost_World:_Jurassic_Park&gt;</data>
+</node>
+<node id="1929">
+  <data key="d0">&lt;Kill_the_Irishman&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">12000000.0</data>
+  <data key="d5">1190000.0</data>
+  <data key="d6">&lt;Kill_the_Irishman&gt;</data>
+</node>
+<node id="1074">
+  <data key="d0">&lt;The_Cell&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">33000000.0</data>
+  <data key="d5">104155843.0</data>
+  <data key="d6">&lt;The_Cell&gt;</data>
+</node>
+<node id="1720">
+  <data key="d0">&lt;Dudley_Do-Right_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">70000000.0</data>
+  <data key="d5">10000000.0</data>
+  <data key="d6">&lt;Dudley_Do-Right_(film)&gt;</data>
+</node>
+<node id="1204">
+  <data key="d0">&lt;Alvin_and_the_Chipmunks_(film_series)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">300000000.0</data>
+  <data key="d5">1284604782.0</data>
+  <data key="d6">&lt;Alvin_and_the_Chipmunks_(film_series)&gt;</data>
+</node>
+<node id="1454">
+  <data key="d0">&lt;The_Expendables_(2010_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">82000000.0</data>
+  <data key="d5">274500000.0</data>
+  <data key="d6">&lt;The_Expendables_(2010_film)&gt;</data>
+</node>
+<node id="1430">
+  <data key="d0">&lt;Machete_Kills&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">15000000.0</data>
+  <data key="d6">&lt;Machete_Kills&gt;</data>
+</node>
+<node id="1554">
+  <data key="d0">&lt;The_Kids_Are_All_Right_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">4000000.0</data>
+  <data key="d5">34700000.0</data>
+  <data key="d6">&lt;The_Kids_Are_All_Right_(film)&gt;</data>
+</node>
+<node id="917">
+  <data key="d0">&lt;From_Dusk_till_Dawn&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">19000000.0</data>
+  <data key="d5">25800000.0</data>
+  <data key="d6">&lt;From_Dusk_till_Dawn&gt;</data>
+</node>
+<node id="298">
+  <data key="d0">&lt;Olympus_Has_Fallen&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">70000000.0</data>
+  <data key="d5">161000000.0</data>
+  <data key="d6">&lt;Olympus_Has_Fallen&gt;</data>
+</node>
+<node id="767">
+  <data key="d0">&lt;The_Witches_of_Eastwick_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">22000000.0</data>
+  <data key="d5">63800000.0</data>
+  <data key="d6">&lt;The_Witches_of_Eastwick_(film)&gt;</data>
+</node>
+<node id="862">
+  <data key="d0">&lt;Swordfish_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">102000000.0</data>
+  <data key="d5">147000000.0</data>
+  <data key="d6">&lt;Swordfish_(film)&gt;</data>
+</node>
+<node id="299">
+  <data key="d0">&lt;High_Crimes&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">42000000.0</data>
+  <data key="d5">63800000.0</data>
+  <data key="d6">&lt;High_Crimes&gt;</data>
+</node>
+<node id="652">
+  <data key="d0">&lt;W._(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">25100000.0</data>
+  <data key="d5">29500000.0</data>
+  <data key="d6">&lt;W._(film)&gt;</data>
+</node>
+<node id="1855">
+  <data key="d0">&lt;Supernova_(2000_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60.0</data>
+  <data key="d5">14828081.0</data>
+  <data key="d6">&lt;Supernova_(2000_film)&gt;</data>
+</node>
+<node id="2686">
+  <data key="d0">&lt;Conan_the_Barbarian_(2011_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">0</data>
+  <data key="d4">90000000.0</data>
+  <data key="d5">48800000.0</data>
+  <data key="d6">&lt;Conan_the_Barbarian_(2011_film)&gt;</data>
+</node>
+<node id="994">
+  <data key="d0">&lt;Dangerous_Liaisons&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">14000000.0</data>
+  <data key="d5">34700000.0</data>
+  <data key="d6">&lt;Dangerous_Liaisons&gt;</data>
+</node>
+<node id="741">
+  <data key="d0">&lt;The_Big_Wedding&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">35000000.0</data>
+  <data key="d5">46519348.0</data>
+  <data key="d6">&lt;The_Big_Wedding&gt;</data>
+</node>
+<node id="1062">
+  <data key="d0">&lt;The_Watch_(2012_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">68000000.0</data>
+  <data key="d5">68300000.0</data>
+  <data key="d6">&lt;The_Watch_(2012_film)&gt;</data>
+</node>
+<node id="1377">
+  <data key="d0">&lt;The_Chronicles_of_Riddick&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">105.0</data>
+  <data key="d5">115800000.0</data>
+  <data key="d6">&lt;The_Chronicles_of_Riddick&gt;</data>
+</node>
+<node id="1418">
+  <data key="d0">&lt;Varsity_Blues_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">16000000.0</data>
+  <data key="d5">54294169.0</data>
+  <data key="d6">&lt;Varsity_Blues_(film)&gt;</data>
+</node>
+<node id="605">
+  <data key="d0">&lt;Turbo_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">127000000.0</data>
+  <data key="d5">282600000.0</data>
+  <data key="d6">&lt;Turbo_(film)&gt;</data>
+</node>
+<node id="1585">
+  <data key="d0">&lt;Hurry_Sundown_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">3785000.0</data>
+  <data key="d5">4050000.0</data>
+  <data key="d6">&lt;Hurry_Sundown_(film)&gt;</data>
+</node>
+<node id="570">
+  <data key="d0">&lt;The_One_(2001_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">49000000.0</data>
+  <data key="d5">72700000.0</data>
+  <data key="d6">&lt;The_One_(2001_film)&gt;</data>
+</node>
+<node id="1468">
+  <data key="d0">&lt;War_(2007_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">25000000.0</data>
+  <data key="d5">40452643.0</data>
+  <data key="d6">&lt;War_(2007_film)&gt;</data>
+</node>
+<node id="562">
+  <data key="d0">&lt;Spy_Kids&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">35000000.0</data>
+  <data key="d5">147900000.0</data>
+  <data key="d6">&lt;Spy_Kids&gt;</data>
+</node>
+<node id="1909">
+  <data key="d0">&lt;Excess_Baggage_(1997_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">14515490.0</data>
+  <data key="d6">&lt;Excess_Baggage_(1997_film)&gt;</data>
+</node>
+<node id="1363">
+  <data key="d0">&lt;The_Fast_and_the_Furious:_Tokyo_Drift&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">85000000.0</data>
+  <data key="d5">158500000.0</data>
+  <data key="d6">&lt;The_Fast_and_the_Furious:_Tokyo_Drift&gt;</data>
+</node>
+<node id="1907">
+  <data key="d0">&lt;Biloxi_Blues_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">51700000.0</data>
+  <data key="d6">&lt;Biloxi_Blues_(film)&gt;</data>
+</node>
+<node id="2046">
+  <data key="d0">&lt;Cuban_Fury&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">1000000.0</data>
+  <data key="d5">5600000.0</data>
+  <data key="d6">&lt;Cuban_Fury&gt;</data>
+</node>
+<node id="1113">
+  <data key="d0">&lt;Valiant_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">35000000.0</data>
+  <data key="d5">61746888.0</data>
+  <data key="d6">&lt;Valiant_(film)&gt;</data>
+</node>
+<node id="451">
+  <data key="d0">&lt;I_Know_What_You_Did_Last_Summer&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">17000000.0</data>
+  <data key="d5">125200000.0</data>
+  <data key="d6">&lt;I_Know_What_You_Did_Last_Summer&gt;</data>
+</node>
+<node id="1072">
+  <data key="d0">&lt;Wedding_Crashers&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">40000000.0</data>
+  <data key="d5">285200000.0</data>
+  <data key="d6">&lt;Wedding_Crashers&gt;</data>
+</node>
+<node id="1726">
+  <data key="d0">&lt;The_Mummy:_Tomb_of_the_Dragon_Emperor&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">145000000.0</data>
+  <data key="d5">401100000.0</data>
+  <data key="d6">&lt;The_Mummy:_Tomb_of_the_Dragon_Emperor&gt;</data>
+</node>
+<node id="1155">
+  <data key="d0">&lt;The_Dark_Knight_Trilogy&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">585000000.0</data>
+  <data key="d5">2464000000.0</data>
+  <data key="d6">&lt;The_Dark_Knight_Trilogy&gt;</data>
+</node>
+<node id="2042">
+  <data key="d0">&lt;Sexy_Beast&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">4200000.0</data>
+  <data key="d5">31765934.0</data>
+  <data key="d6">&lt;Sexy_Beast&gt;</data>
+</node>
+<node id="1092">
+  <data key="d0">&lt;Blade:_Trinity&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">65000000.0</data>
+  <data key="d5">128900000.0</data>
+  <data key="d6">&lt;Blade:_Trinity&gt;</data>
+</node>
+<node id="1926">
+  <data key="d0">&lt;The_Funeral_(1996_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">12500000.0</data>
+  <data key="d5">1412799.0</data>
+  <data key="d6">&lt;The_Funeral_(1996_film)&gt;</data>
+</node>
+<node id="926">
+  <data key="d0">&lt;The_Last_Temptation_of_Christ_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">7000000.0</data>
+  <data key="d5">8900000.0</data>
+  <data key="d6">&lt;The_Last_Temptation_of_Christ_(film)&gt;</data>
+</node>
+<node id="102">
+  <data key="d0">&lt;Southland_Tales&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">17000000.0</data>
+  <data key="d5">374743.0</data>
+  <data key="d6">&lt;Southland_Tales&gt;</data>
+</node>
+<node id="1160">
+  <data key="d0">&lt;Tinker_Tailor_Soldier_Spy_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">21000000.0</data>
+  <data key="d5">80600000.0</data>
+  <data key="d6">&lt;Tinker_Tailor_Soldier_Spy_(film)&gt;</data>
+</node>
+<node id="1162">
+  <data key="d0">&lt;Lawless_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">26000000.0</data>
+  <data key="d5">53676580.0</data>
+  <data key="d6">&lt;Lawless_(film)&gt;</data>
+</node>
+<node id="1925">
+  <data key="d0">&lt;At_Close_Range&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">6500000.0</data>
+  <data key="d5">2347000.0</data>
+  <data key="d6">&lt;At_Close_Range&gt;</data>
+</node>
+<node id="1557">
+  <data key="d0">&lt;Cirque_du_Freak:_The_Vampire's_Assistant&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">40000000.0</data>
+  <data key="d5">39232113.0</data>
+  <data key="d6">&lt;Cirque_du_Freak:_The_Vampire's_Assistant&gt;</data>
+</node>
+<node id="1063">
+  <data key="d0">&lt;Psycho_(1998_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">37100000.0</data>
+  <data key="d6">&lt;Psycho_(1998_film)&gt;</data>
+</node>
+<node id="301">
+  <data key="d0">&lt;Dolphin_Tale&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">37000000.0</data>
+  <data key="d5">95900000.0</data>
+  <data key="d6">&lt;Dolphin_Tale&gt;</data>
+</node>
+<node id="1401">
+  <data key="d0">&lt;Annapolis_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">26000000.0</data>
+  <data key="d5">17496992.0</data>
+  <data key="d6">&lt;Annapolis_(film)&gt;</data>
+</node>
+<node id="1380">
+  <data key="d0">&lt;The_Fast_and_the_Furious_(2001_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">38000000.0</data>
+  <data key="d5">207300000.0</data>
+  <data key="d6">&lt;The_Fast_and_the_Furious_(2001_film)&gt;</data>
+</node>
+<node id="815">
+  <data key="d0">&lt;The_Expendables_2&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">100000000.0</data>
+  <data key="d5">305400000.0</data>
+  <data key="d6">&lt;The_Expendables_2&gt;</data>
+</node>
+<node id="525">
+  <data key="d0">&lt;The_Dukes_of_Hazzard_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">50000000.0</data>
+  <data key="d5">111100000.0</data>
+  <data key="d6">&lt;The_Dukes_of_Hazzard_(film)&gt;</data>
+</node>
+<node id="919">
+  <data key="d0">&lt;Cop_Land&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">15000000.0</data>
+  <data key="d5">44862187.0</data>
+  <data key="d6">&lt;Cop_Land&gt;</data>
+</node>
+<node id="360">
+  <data key="d0">&lt;The_Princess_Bride_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">16000000.0</data>
+  <data key="d5">30900000.0</data>
+  <data key="d6">&lt;The_Princess_Bride_(film)&gt;</data>
+</node>
+<node id="324">
+  <data key="d0">&lt;Gnomeo_&amp;_Juliet&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">36000000.0</data>
+  <data key="d5">194000000.0</data>
+  <data key="d6">&lt;Gnomeo_&amp;_Juliet&gt;</data>
+</node>
+<node id="1154">
+  <data key="d0">&lt;Dawn_of_the_Planet_of_the_Apes&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">170000000.0</data>
+  <data key="d5">710600000.0</data>
+  <data key="d6">&lt;Dawn_of_the_Planet_of_the_Apes&gt;</data>
+</node>
+<node id="1221">
+  <data key="d0">&lt;Waiting..._(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">3000000.0</data>
+  <data key="d5">18637690.0</data>
+  <data key="d6">&lt;Waiting..._(film)&gt;</data>
+</node>
+<node id="858">
+  <data key="d0">&lt;A_Civil_Action_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">75000000.0</data>
+  <data key="d5">56709981.0</data>
+  <data key="d6">&lt;A_Civil_Action_(film)&gt;</data>
+</node>
+<node id="572">
+  <data key="d0">&lt;The_Mighty_Macs&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">7000000.0</data>
+  <data key="d5">1891936.0</data>
+  <data key="d6">&lt;The_Mighty_Macs&gt;</data>
+</node>
+<node id="1213">
+  <data key="d0">&lt;He's_Just_Not_That_Into_You_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">40000000.0</data>
+  <data key="d5">181100000.0</data>
+  <data key="d6">&lt;He's_Just_Not_That_Into_You_(film)&gt;</data>
+</node>
+<node id="632">
+  <data key="d0">&lt;Barney's_Version_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">30000000.0</data>
+  <data key="d5">8500000.0</data>
+  <data key="d6">&lt;Barney's_Version_(film)&gt;</data>
+</node>
+<node id="294">
+  <data key="d0">&lt;Heat_(1995_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">187400000.0</data>
+  <data key="d6">&lt;Heat_(1995_film)&gt;</data>
+</node>
+<node id="2244">
+  <data key="d0">&lt;Stop-Loss_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">0</data>
+  <data key="d4">25000000.0</data>
+  <data key="d5">11207130.0</data>
+  <data key="d6">&lt;Stop-Loss_(film)&gt;</data>
+</node>
+<node id="1922">
+  <data key="d0">&lt;Search_and_Destroy_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">4000000.0</data>
+  <data key="d5">389503.0</data>
+  <data key="d6">&lt;Search_and_Destroy_(film)&gt;</data>
+</node>
+<node id="1169">
+  <data key="d0">&lt;JFK_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">40000000.0</data>
+  <data key="d5">205400000.0</data>
+  <data key="d6">&lt;JFK_(film)&gt;</data>
+</node>
+<node id="1990">
+  <data key="d0">&lt;Death_at_a_Funeral_(2007_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">9000000.0</data>
+  <data key="d5">46800000.0</data>
+  <data key="d6">&lt;Death_at_a_Funeral_(2007_film)&gt;</data>
+</node>
+<node id="1173">
+  <data key="d0">&lt;Murder_in_the_First_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">23000000.0</data>
+  <data key="d5">17381942.0</data>
+  <data key="d6">&lt;Murder_in_the_First_(film)&gt;</data>
+</node>
+<node id="302">
+  <data key="d0">&lt;Dolphin_Tale_2&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">36000000.0</data>
+  <data key="d5">57800000.0</data>
+  <data key="d6">&lt;Dolphin_Tale_2&gt;</data>
+</node>
+<node id="1584">
+  <data key="d0">&lt;The_Honorary_Consul_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">8000000.0</data>
+  <data key="d5">5997566.0</data>
+  <data key="d6">&lt;The_Honorary_Consul_(film)&gt;</data>
+</node>
+<node id="367">
+  <data key="d0">&lt;The_Curse_of_the_Jade_Scorpion&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">33000000.0</data>
+  <data key="d5">18900000.0</data>
+  <data key="d6">&lt;The_Curse_of_the_Jade_Scorpion&gt;</data>
+</node>
+<node id="522">
+  <data key="d0">&lt;Movie_43&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">6000000.0</data>
+  <data key="d5">32400000.0</data>
+  <data key="d6">&lt;Movie_43&gt;</data>
+</node>
+<node id="1086">
+  <data key="d0">&lt;Summer_Catch&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">34000000.0</data>
+  <data key="d5">19700000.0</data>
+  <data key="d6">&lt;Summer_Catch&gt;</data>
+</node>
+<node id="1535">
+  <data key="d0">&lt;Anger_Management_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">75000000.0</data>
+  <data key="d5">195700000.0</data>
+  <data key="d6">&lt;Anger_Management_(film)&gt;</data>
+</node>
+<node id="989">
+  <data key="d0">&lt;Batman_&amp;_Robin_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">125.0</data>
+  <data key="d5">238200000.0</data>
+  <data key="d6">&lt;Batman_&amp;_Robin_(film)&gt;</data>
+</node>
+<node id="1462">
+  <data key="d0">&lt;The_Expendables_3&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">90000000.0</data>
+  <data key="d5">206200000.0</data>
+  <data key="d6">&lt;The_Expendables_3&gt;</data>
+</node>
+<node id="851">
+  <data key="d0">&lt;Wild_Hogs&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">253600000.0</data>
+  <data key="d6">&lt;Wild_Hogs&gt;</data>
+</node>
+<node id="910">
+  <data key="d0">&lt;Falling_in_Love_(1984_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">12000000.0</data>
+  <data key="d5">11129057.0</data>
+  <data key="d6">&lt;Falling_in_Love_(1984_film)&gt;</data>
+</node>
+<node id="877">
+  <data key="d0">&lt;She's_So_Lovely&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">18000000.0</data>
+  <data key="d5">7281450.0</data>
+  <data key="d6">&lt;She's_So_Lovely&gt;</data>
+</node>
+<node id="915">
+  <data key="d0">&lt;The_Bridge_of_San_Luis_Rey_(2004_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">24000000.0</data>
+  <data key="d5">1800000.0</data>
+  <data key="d6">&lt;The_Bridge_of_San_Luis_Rey_(2004_film)&gt;</data>
+</node>
+<node id="567">
+  <data key="d0">&lt;Spy_Kids_3-D:_Game_Over&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">38000000.0</data>
+  <data key="d5">197000000.0</data>
+  <data key="d6">&lt;Spy_Kids_3-D:_Game_Over&gt;</data>
+</node>
+<node id="990">
+  <data key="d0">&lt;Even_Cowgirls_Get_the_Blues_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">8000000.0</data>
+  <data key="d5">1700000.0</data>
+  <data key="d6">&lt;Even_Cowgirls_Get_the_Blues_(film)&gt;</data>
+</node>
+<node id="1434">
+  <data key="d0">&lt;Machete_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">10500000.0</data>
+  <data key="d5">44093316.0</data>
+  <data key="d6">&lt;Machete_(film)&gt;</data>
+</node>
+<node id="852">
+  <data key="d0">&lt;Phenomenon_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">32000000.0</data>
+  <data key="d5">152036382.0</data>
+  <data key="d6">&lt;Phenomenon_(film)&gt;</data>
+</node>
+<node id="1597">
+  <data key="d0">&lt;Secondhand_Lions&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">30000000.0</data>
+  <data key="d5">74800000.0</data>
+  <data key="d6">&lt;Secondhand_Lions&gt;</data>
+</node>
+<node id="988">
+  <data key="d0">&lt;Batman_(1989_film_series)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">340000000.0</data>
+  <data key="d5">1252000000.0</data>
+  <data key="d6">&lt;Batman_(1989_film_series)&gt;</data>
+</node>
+<node id="820">
+  <data key="d0">&lt;The_Hunger_Games_(film_series)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">493000000.0</data>
+  <data key="d5">2900000000.0</data>
+  <data key="d6">&lt;The_Hunger_Games_(film_series)&gt;</data>
+</node>
+<node id="1487">
+  <data key="d0">&lt;Flight_of_the_Phoenix_(2004_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">45000000.0</data>
+  <data key="d5">34586268.0</data>
+  <data key="d6">&lt;Flight_of_the_Phoenix_(2004_film)&gt;</data>
+</node>
+<node id="1214">
+  <data key="d0">&lt;Battle_for_Terra&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">4000000.0</data>
+  <data key="d5">6129529.0</data>
+  <data key="d6">&lt;Battle_for_Terra&gt;</data>
+</node>
+<node id="1071">
+  <data key="d0">&lt;Starsky_&amp;_Hutch_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">170268750.0</data>
+  <data key="d6">&lt;Starsky_&amp;_Hutch_(film)&gt;</data>
+</node>
+<node id="565">
+  <data key="d0">&lt;Miami_Rhapsody&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">6000000.0</data>
+  <data key="d5">5221281.0</data>
+  <data key="d6">&lt;Miami_Rhapsody&gt;</data>
+</node>
+<node id="307">
+  <data key="d0">&lt;Kiss_the_Girls_(1997_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">27000000.0</data>
+  <data key="d5">60500000.0</data>
+  <data key="d6">&lt;Kiss_the_Girls_(1997_film)&gt;</data>
+</node>
+<node id="1392">
+  <data key="d0">&lt;RocknRolla&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">13000000.0</data>
+  <data key="d5">25739015.0</data>
+  <data key="d6">&lt;RocknRolla&gt;</data>
+</node>
+<node id="623">
+  <data key="d0">&lt;Lady_in_the_Water&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">70000000.0</data>
+  <data key="d5">72800000.0</data>
+  <data key="d6">&lt;Lady_in_the_Water&gt;</data>
+</node>
+<node id="2192">
+  <data key="d0">&lt;Looper_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">0</data>
+  <data key="d4">30000000.0</data>
+  <data key="d5">176500000.0</data>
+  <data key="d6">&lt;Looper_(film)&gt;</data>
+</node>
+<node id="1075">
+  <data key="d0">&lt;The_Break-Up&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">52000000.0</data>
+  <data key="d5">205700000.0</data>
+  <data key="d6">&lt;The_Break-Up&gt;</data>
+</node>
+<node id="1700">
+  <data key="d0">&lt;The_Mummy_(1999_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">80000000.0</data>
+  <data key="d5">415900000.0</data>
+  <data key="d6">&lt;The_Mummy_(1999_film)&gt;</data>
+</node>
+<node id="651">
+  <data key="d0">&lt;King_Arthur_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">120000000.0</data>
+  <data key="d5">203600000.0</data>
+  <data key="d6">&lt;King_Arthur_(film)&gt;</data>
+</node>
+<node id="411">
+  <data key="d0">&lt;Fred_Claus&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">100000000.0</data>
+  <data key="d5">97800000.0</data>
+  <data key="d6">&lt;Fred_Claus&gt;</data>
+</node>
+<node id="107">
+  <data key="d0">&lt;Be_Cool&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">53000000.0</data>
+  <data key="d5">95200000.0</data>
+  <data key="d6">&lt;Be_Cool&gt;</data>
+</node>
+<node id="124">
+  <data key="d0">&lt;G.I._Joe_(film_series)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">305000000.0</data>
+  <data key="d5">678209722.0</data>
+  <data key="d6">&lt;G.I._Joe_(film_series)&gt;</data>
+</node>
+<node id="108">
+  <data key="d0">&lt;Planet_51&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d4">49000000.0</data>
+  <data key="d5">105600000.0</data>
+  <data key="d6">&lt;Planet_51&gt;</data>
+</node>
+<node id="1220">
+  <data key="d0">&lt;Alpha_and_Omega_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">50500000.0</data>
+  <data key="d6">&lt;Alpha_and_Omega_(film)&gt;</data>
+</node>
+<node id="1009">
+  <data key="d0">&lt;The_Producers_(2005_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">45000000.0</data>
+  <data key="d5">38100000.0</data>
+  <data key="d6">&lt;The_Producers_(2005_film)&gt;</data>
+</node>
+<node id="1059">
+  <data key="d0">&lt;DodgeBall:_A_True_Underdog_Story&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">167700000.0</data>
+  <data key="d6">&lt;DodgeBall:_A_True_Underdog_Story&gt;</data>
+</node>
+<node id="590">
+  <data key="d0">&lt;Hall_Pass&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">36000000.0</data>
+  <data key="d5">83200000.0</data>
+  <data key="d6">&lt;Hall_Pass&gt;</data>
+</node>
+<node id="615">
+  <data key="d0">&lt;12_Years_a_Slave_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">22000000.0</data>
+  <data key="d5">187700000.0</data>
+  <data key="d6">&lt;12_Years_a_Slave_(film)&gt;</data>
+</node>
+<node id="1171">
+  <data key="d0">&lt;Quest_for_Camelot&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">40000000.0</data>
+  <data key="d5">38100000.0</data>
+  <data key="d6">&lt;Quest_for_Camelot&gt;</data>
+</node>
+<node id="2204">
+  <data key="d0">&lt;Red_2_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">0</data>
+  <data key="d4">84000000.0</data>
+  <data key="d5">148100000.0</data>
+  <data key="d6">&lt;Red_2_(film)&gt;</data>
+</node>
+<node id="812">
+  <data key="d0">&lt;The_Hunger_Games:_Mockingjay_–_Part_1&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">125000000.0</data>
+  <data key="d5">755400000.0</data>
+  <data key="d6">&lt;The_Hunger_Games:_Mockingjay_–_Part_1&gt;</data>
+</node>
+<node id="1098">
+  <data key="d0">&lt;New_Year's_Eve_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">56000000.0</data>
+  <data key="d5">142000000.0</data>
+  <data key="d6">&lt;New_Year's_Eve_(film)&gt;</data>
+</node>
+<node id="1159">
+  <data key="d0">&lt;Criminal_(2016_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">31500000.0</data>
+  <data key="d5">36100000.0</data>
+  <data key="d6">&lt;Criminal_(2016_film)&gt;</data>
+</node>
+<node id="1721">
+  <data key="d0">&lt;Escape_from_Planet_Earth&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">40000000.0</data>
+  <data key="d5">74600000.0</data>
+  <data key="d6">&lt;Escape_from_Planet_Earth&gt;</data>
+</node>
+<node id="854">
+  <data key="d0">&lt;Savages_(2012_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">45000000.0</data>
+  <data key="d5">83000000.0</data>
+  <data key="d6">&lt;Savages_(2012_film)&gt;</data>
+</node>
+<node id="2006">
+  <data key="d0">&lt;Triple_9&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">20000000.0</data>
+  <data key="d5">23400000.0</data>
+  <data key="d6">&lt;Triple_9&gt;</data>
+</node>
+<node id="1065">
+  <data key="d0">&lt;The_Internship&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">58000000.0</data>
+  <data key="d5">93000000.0</data>
+  <data key="d6">&lt;The_Internship&gt;</data>
+</node>
+<node id="911">
+  <data key="d0">&lt;Wise_Guys_(1986_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">13000000.0</data>
+  <data key="d5">8475466.0</data>
+  <data key="d6">&lt;Wise_Guys_(1986_film)&gt;</data>
+</node>
+<node id="1537">
+  <data key="d0">&lt;Magnolia_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">37000000.0</data>
+  <data key="d5">48500000.0</data>
+  <data key="d6">&lt;Magnolia_(film)&gt;</data>
+</node>
+<node id="538">
+  <data key="d0">&lt;Hoodwinked!&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">8000000.0</data>
+  <data key="d5">110000000.0</data>
+  <data key="d6">&lt;Hoodwinked!&gt;</data>
+</node>
+<node id="1203">
+  <data key="d0">&lt;Alvin_and_the_Chipmunks_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">60000000.0</data>
+  <data key="d5">361300000.0</data>
+  <data key="d6">&lt;Alvin_and_the_Chipmunks_(film)&gt;</data>
+</node>
+<node id="1176">
+  <data key="d0">&lt;True_Romance&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">13000000.0</data>
+  <data key="d5">12300000.0</data>
+  <data key="d6">&lt;True_Romance&gt;</data>
+</node>
+<node id="454">
+  <data key="d0">&lt;Scooby-Doo_2:_Monsters_Unleashed&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">80000000.0</data>
+  <data key="d5">181500000.0</data>
+  <data key="d6">&lt;Scooby-Doo_2:_Monsters_Unleashed&gt;</data>
+</node>
+<node id="1061">
+  <data key="d0">&lt;Made_(2001_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">5000000.0</data>
+  <data key="d5">5480653.0</data>
+  <data key="d6">&lt;Made_(2001_film)&gt;</data>
+</node>
+<node id="1591">
+  <data key="d0">&lt;Interstellar_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">165000000.0</data>
+  <data key="d5">675100000.0</data>
+  <data key="d6">&lt;Interstellar_(film)&gt;</data>
+</node>
+<node id="1427">
+  <data key="d0">&lt;S.W.A.T._(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">70000000.0</data>
+  <data key="d5">207100000.0</data>
+  <data key="d6">&lt;S.W.A.T._(film)&gt;</data>
+</node>
+<node id="604">
+  <data key="d0">&lt;The_Ides_of_March_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">12500000.0</data>
+  <data key="d5">76000000.0</data>
+  <data key="d6">&lt;The_Ides_of_March_(film)&gt;</data>
+</node>
+<node id="453">
+  <data key="d0">&lt;Scooby-Doo_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">84000000.0</data>
+  <data key="d5">275700000.0</data>
+  <data key="d6">&lt;Scooby-Doo_(film)&gt;</data>
+</node>
+<node id="1412">
+  <data key="d0">&lt;She's_All_That&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">10000000.0</data>
+  <data key="d5">103166989.0</data>
+  <data key="d6">&lt;She's_All_That&gt;</data>
+</node>
+<node id="1900">
+  <data key="d0">&lt;Antz&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">105000000.0</data>
+  <data key="d5">171800000.0</data>
+  <data key="d6">&lt;Antz&gt;</data>
+</node>
+<node id="2037">
+  <data key="d0">&lt;Snow_White_and_the_Huntsman&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">170000000.0</data>
+  <data key="d5">396600000.0</data>
+  <data key="d6">&lt;Snow_White_and_the_Huntsman&gt;</data>
+</node>
+<node id="2074">
+  <data key="d0">&lt;Wild_Bill_(1995_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">30000000.0</data>
+  <data key="d5">2193982.0</data>
+  <data key="d6">&lt;Wild_Bill_(1995_film)&gt;</data>
+</node>
+<node id="481">
+  <data key="d0">&lt;She_Hate_Me&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">8000000.0</data>
+  <data key="d5">1522377.0</data>
+  <data key="d6">&lt;She_Hate_Me&gt;</data>
+</node>
+<node id="323">
+  <data key="d0">&lt;Jackboots_on_Whitehall&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">1</data>
+  <data key="d4">6000000.0</data>
+  <data key="d5">20776.0</data>
+  <data key="d6">&lt;Jackboots_on_Whitehall&gt;</data>
+</node>
+<edge source="1200" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="1200" target="1207">
+  <data key="d7">2</data>
+</edge>
+<edge source="1200" target="1201">
+  <data key="d7">6</data>
+</edge>
+<edge source="1200" target="1214">
+  <data key="d7">2</data>
+</edge>
+<edge source="1200" target="1202">
+  <data key="d7">8</data>
+</edge>
+<edge source="1200" target="1221">
+  <data key="d7">2</data>
+</edge>
+<edge source="1200" target="1203">
+  <data key="d7">5</data>
+</edge>
+<edge source="1200" target="1204">
+  <data key="d7">9</data>
+</edge>
+<edge source="907" target="898">
+  <data key="d7">2</data>
+</edge>
+<edge source="907" target="919">
+  <data key="d7">2</data>
+</edge>
+<edge source="907" target="910">
+  <data key="d7">2</data>
+</edge>
+<edge source="907" target="915">
+  <data key="d7">2</data>
+</edge>
+<edge source="1207" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="1207" target="590">
+  <data key="d7">2</data>
+</edge>
+<edge source="1207" target="1201">
+  <data key="d7">2</data>
+</edge>
+<edge source="1207" target="1202">
+  <data key="d7">2</data>
+</edge>
+<edge source="1207" target="1204">
+  <data key="d7">2</data>
+</edge>
+<edge source="1207" target="1213">
+  <data key="d7">2</data>
+</edge>
+<edge source="985" target="998">
+  <data key="d7">2</data>
+</edge>
+<edge source="1903" target="910">
+  <data key="d7">2</data>
+</edge>
+<edge source="898" target="923">
+  <data key="d7">2</data>
+</edge>
+<edge source="898" target="919">
+  <data key="d7">2</data>
+</edge>
+<edge source="898" target="910">
+  <data key="d7">2</data>
+</edge>
+<edge source="898" target="915">
+  <data key="d7">2</data>
+</edge>
+<edge source="898" target="1434">
+  <data key="d7">2</data>
+</edge>
+<edge source="898" target="1071">
+  <data key="d7">2</data>
+</edge>
+<edge source="819" target="1173">
+  <data key="d7">2</data>
+</edge>
+<edge source="819" target="1175">
+  <data key="d7">2</data>
+</edge>
+<edge source="1446" target="111">
+  <data key="d7">2</data>
+</edge>
+<edge source="1446" target="124">
+  <data key="d7">2</data>
+</edge>
+<edge source="1446" target="1487">
+  <data key="d7">2</data>
+</edge>
+<edge source="114" target="1726">
+  <data key="d7">2</data>
+</edge>
+<edge source="114" target="1700">
+  <data key="d7">4</data>
+</edge>
+<edge source="114" target="124">
+  <data key="d7">2</data>
+</edge>
+<edge source="1324" target="1160">
+  <data key="d7">2</data>
+</edge>
+<edge source="1609" target="1155">
+  <data key="d7">2</data>
+</edge>
+<edge source="1609" target="1589">
+  <data key="d7">6</data>
+</edge>
+<edge source="1426" target="605">
+  <data key="d7">2</data>
+</edge>
+<edge source="2085" target="1113">
+  <data key="d7">2</data>
+</edge>
+<edge source="1058" target="1075">
+  <data key="d7">2</data>
+</edge>
+<edge source="1058" target="1069">
+  <data key="d7">2</data>
+</edge>
+<edge source="1058" target="1061">
+  <data key="d7">3</data>
+</edge>
+<edge source="449" target="451">
+  <data key="d7">2</data>
+</edge>
+<edge source="1168" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="859" target="858">
+  <data key="d7">2</data>
+</edge>
+<edge source="679" target="294">
+  <data key="d7">2</data>
+</edge>
+<edge source="1727" target="988">
+  <data key="d7">2</data>
+</edge>
+<edge source="1727" target="1909">
+  <data key="d7">2</data>
+</edge>
+<edge source="865" target="858">
+  <data key="d7">2</data>
+</edge>
+<edge source="865" target="877">
+  <data key="d7">2</data>
+</edge>
+<edge source="1004" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="1004" target="673">
+  <data key="d7">2</data>
+</edge>
+<edge source="2238" target="119">
+  <data key="d7">3</data>
+</edge>
+<edge source="2238" target="124">
+  <data key="d7">10</data>
+</edge>
+<edge source="2238" target="2244">
+  <data key="d7">2</data>
+</edge>
+<edge source="699" target="323">
+  <data key="d7">2</data>
+</edge>
+<edge source="699" target="1113">
+  <data key="d7">2</data>
+</edge>
+<edge source="1912" target="2074">
+  <data key="d7">2</data>
+</edge>
+<edge source="1532" target="1537">
+  <data key="d7">2</data>
+</edge>
+<edge source="1789" target="1152">
+  <data key="d7">2</data>
+</edge>
+<edge source="1789" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="116" target="102">
+  <data key="d7">2</data>
+</edge>
+<edge source="116" target="108">
+  <data key="d7">2</data>
+</edge>
+<edge source="1393" target="1392">
+  <data key="d7">2</data>
+</edge>
+<edge source="1256" target="863">
+  <data key="d7">2</data>
+</edge>
+<edge source="1152" target="1173">
+  <data key="d7">2</data>
+</edge>
+<edge source="1152" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="1394" target="111">
+  <data key="d7">4</data>
+</edge>
+<edge source="673" target="1487">
+  <data key="d7">2</data>
+</edge>
+<edge source="1175" target="1173">
+  <data key="d7">2</data>
+</edge>
+<edge source="119" target="124">
+  <data key="d7">9</data>
+</edge>
+<edge source="119" target="2204">
+  <data key="d7">2</data>
+</edge>
+<edge source="816" target="812">
+  <data key="d7">7</data>
+</edge>
+<edge source="816" target="813">
+  <data key="d7">7</data>
+</edge>
+<edge source="816" target="820">
+  <data key="d7">7</data>
+</edge>
+<edge source="1499" target="562">
+  <data key="d7">3</data>
+</edge>
+<edge source="1499" target="564">
+  <data key="d7">3</data>
+</edge>
+<edge source="1499" target="567">
+  <data key="d7">2</data>
+</edge>
+<edge source="1499" target="917">
+  <data key="d7">2</data>
+</edge>
+<edge source="1499" target="1430">
+  <data key="d7">2</data>
+</edge>
+<edge source="1499" target="1434">
+  <data key="d7">2</data>
+</edge>
+<edge source="1499" target="1557">
+  <data key="d7">2</data>
+</edge>
+<edge source="1212" target="1214">
+  <data key="d7">2</data>
+</edge>
+<edge source="1201" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="1201" target="1202">
+  <data key="d7">6</data>
+</edge>
+<edge source="1201" target="1221">
+  <data key="d7">2</data>
+</edge>
+<edge source="1201" target="1203">
+  <data key="d7">4</data>
+</edge>
+<edge source="1201" target="1204">
+  <data key="d7">9</data>
+</edge>
+<edge source="1899" target="988">
+  <data key="d7">2</data>
+</edge>
+<edge source="1899" target="1009">
+  <data key="d7">2</data>
+</edge>
+<edge source="1899" target="1907">
+  <data key="d7">2</data>
+</edge>
+<edge source="1921" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="1745" target="411">
+  <data key="d7">2</data>
+</edge>
+<edge source="1202" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="1202" target="1214">
+  <data key="d7">2</data>
+</edge>
+<edge source="1202" target="1221">
+  <data key="d7">2</data>
+</edge>
+<edge source="1202" target="1203">
+  <data key="d7">5</data>
+</edge>
+<edge source="1202" target="1204">
+  <data key="d7">9</data>
+</edge>
+<edge source="563" target="562">
+  <data key="d7">2</data>
+</edge>
+<edge source="563" target="567">
+  <data key="d7">4</data>
+</edge>
+<edge source="563" target="565">
+  <data key="d7">2</data>
+</edge>
+<edge source="563" target="564">
+  <data key="d7">4</data>
+</edge>
+<edge source="612" target="411">
+  <data key="d7">2</data>
+</edge>
+<edge source="612" target="1740">
+  <data key="d7">2</data>
+</edge>
+<edge source="612" target="632">
+  <data key="d7">2</data>
+</edge>
+<edge source="1453" target="1462">
+  <data key="d7">2</data>
+</edge>
+<edge source="1161" target="360">
+  <data key="d7">2</data>
+</edge>
+<edge source="1161" target="1160">
+  <data key="d7">2</data>
+</edge>
+<edge source="1161" target="1171">
+  <data key="d7">2</data>
+</edge>
+<edge source="564" target="562">
+  <data key="d7">5</data>
+</edge>
+<edge source="564" target="567">
+  <data key="d7">8</data>
+</edge>
+<edge source="564" target="1434">
+  <data key="d7">2</data>
+</edge>
+<edge source="564" target="565">
+  <data key="d7">2</data>
+</edge>
+<edge source="564" target="871">
+  <data key="d7">2</data>
+</edge>
+<edge source="564" target="1430">
+  <data key="d7">2</data>
+</edge>
+<edge source="369" target="102">
+  <data key="d7">2</data>
+</edge>
+<edge source="369" target="451">
+  <data key="d7">2</data>
+</edge>
+<edge source="369" target="538">
+  <data key="d7">2</data>
+</edge>
+<edge source="369" target="454">
+  <data key="d7">2</data>
+</edge>
+<edge source="369" target="453">
+  <data key="d7">2</data>
+</edge>
+<edge source="1538" target="903">
+  <data key="d7">2</data>
+</edge>
+<edge source="1538" target="1535">
+  <data key="d7">2</data>
+</edge>
+<edge source="1538" target="1537">
+  <data key="d7">2</data>
+</edge>
+<edge source="111" target="1363">
+  <data key="d7">3</data>
+</edge>
+<edge source="111" target="1401">
+  <data key="d7">2</data>
+</edge>
+<edge source="111" target="1380">
+  <data key="d7">4</data>
+</edge>
+<edge source="903" target="923">
+  <data key="d7">3</data>
+</edge>
+<edge source="813" target="604">
+  <data key="d7">2</data>
+</edge>
+<edge source="813" target="652">
+  <data key="d7">2</data>
+</edge>
+<edge source="813" target="812">
+  <data key="d7">10</data>
+</edge>
+<edge source="813" target="820">
+  <data key="d7">7</data>
+</edge>
+<edge source="813" target="1537">
+  <data key="d7">2</data>
+</edge>
+<edge source="813" target="1554">
+  <data key="d7">2</data>
+</edge>
+<edge source="1589" target="1155">
+  <data key="d7">2</data>
+</edge>
+<edge source="1069" target="1061">
+  <data key="d7">2</data>
+</edge>
+<edge source="1069" target="1075">
+  <data key="d7">2</data>
+</edge>
+<edge source="871" target="107">
+  <data key="d7">2</data>
+</edge>
+<edge source="520" target="522">
+  <data key="d7">3</data>
+</edge>
+<edge source="1376" target="298">
+  <data key="d7">2</data>
+</edge>
+<edge source="1376" target="1377">
+  <data key="d7">2</data>
+</edge>
+<edge source="998" target="994">
+  <data key="d7">2</data>
+</edge>
+<edge source="863" target="877">
+  <data key="d7">2</data>
+</edge>
+<edge source="923" target="915">
+  <data key="d7">2</data>
+</edge>
+<edge source="923" target="926">
+  <data key="d7">2</data>
+</edge>
+<edge source="1390" target="1392">
+  <data key="d7">2</data>
+</edge>
+<edge source="610" target="632">
+  <data key="d7">2</data>
+</edge>
+<edge source="1374" target="1377">
+  <data key="d7">2</data>
+</edge>
+<edge source="1070" target="1063">
+  <data key="d7">2</data>
+</edge>
+<edge source="1929" target="988">
+  <data key="d7">2</data>
+</edge>
+<edge source="1929" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="1074" target="1075">
+  <data key="d7">2</data>
+</edge>
+<edge source="1720" target="1721">
+  <data key="d7">2</data>
+</edge>
+<edge source="1204" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="1204" target="1203">
+  <data key="d7">6</data>
+</edge>
+<edge source="1204" target="1221">
+  <data key="d7">2</data>
+</edge>
+<edge source="1204" target="1214">
+  <data key="d7">2</data>
+</edge>
+<edge source="1454" target="570">
+  <data key="d7">2</data>
+</edge>
+<edge source="1454" target="815">
+  <data key="d7">5</data>
+</edge>
+<edge source="1454" target="1468">
+  <data key="d7">2</data>
+</edge>
+<edge source="1454" target="1462">
+  <data key="d7">5</data>
+</edge>
+<edge source="1430" target="562">
+  <data key="d7">2</data>
+</edge>
+<edge source="1430" target="1434">
+  <data key="d7">2</data>
+</edge>
+<edge source="1430" target="1462">
+  <data key="d7">2</data>
+</edge>
+<edge source="1554" target="812">
+  <data key="d7">2</data>
+</edge>
+<edge source="298" target="307">
+  <data key="d7">2</data>
+</edge>
+<edge source="298" target="1155">
+  <data key="d7">2</data>
+</edge>
+<edge source="298" target="301">
+  <data key="d7">2</data>
+</edge>
+<edge source="298" target="299">
+  <data key="d7">2</data>
+</edge>
+<edge source="298" target="302">
+  <data key="d7">2</data>
+</edge>
+<edge source="298" target="1855">
+  <data key="d7">2</data>
+</edge>
+<edge source="767" target="988">
+  <data key="d7">2</data>
+</edge>
+<edge source="862" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="299" target="307">
+  <data key="d7">2</data>
+</edge>
+<edge source="299" target="301">
+  <data key="d7">2</data>
+</edge>
+<edge source="299" target="302">
+  <data key="d7">2</data>
+</edge>
+<edge source="652" target="812">
+  <data key="d7">2</data>
+</edge>
+<edge source="2686" target="124">
+  <data key="d7">2</data>
+</edge>
+<edge source="994" target="988">
+  <data key="d7">2</data>
+</edge>
+<edge source="994" target="990">
+  <data key="d7">2</data>
+</edge>
+<edge source="741" target="1098">
+  <data key="d7">2</data>
+</edge>
+<edge source="1062" target="1059">
+  <data key="d7">2</data>
+</edge>
+<edge source="1062" target="1071">
+  <data key="d7">2</data>
+</edge>
+<edge source="605" target="1427">
+  <data key="d7">2</data>
+</edge>
+<edge source="570" target="1468">
+  <data key="d7">2</data>
+</edge>
+<edge source="570" target="815">
+  <data key="d7">2</data>
+</edge>
+<edge source="570" target="1462">
+  <data key="d7">2</data>
+</edge>
+<edge source="1468" target="815">
+  <data key="d7">2</data>
+</edge>
+<edge source="1468" target="1462">
+  <data key="d7">2</data>
+</edge>
+<edge source="562" target="1434">
+  <data key="d7">2</data>
+</edge>
+<edge source="562" target="567">
+  <data key="d7">4</data>
+</edge>
+<edge source="562" target="565">
+  <data key="d7">2</data>
+</edge>
+<edge source="1909" target="988">
+  <data key="d7">2</data>
+</edge>
+<edge source="1909" target="1926">
+  <data key="d7">2</data>
+</edge>
+<edge source="2046" target="2037">
+  <data key="d7">2</data>
+</edge>
+<edge source="451" target="454">
+  <data key="d7">2</data>
+</edge>
+<edge source="451" target="453">
+  <data key="d7">2</data>
+</edge>
+<edge source="1072" target="1065">
+  <data key="d7">2</data>
+</edge>
+<edge source="1072" target="1071">
+  <data key="d7">2</data>
+</edge>
+<edge source="1726" target="1700">
+  <data key="d7">2</data>
+</edge>
+<edge source="1155" target="1160">
+  <data key="d7">2</data>
+</edge>
+<edge source="1155" target="1162">
+  <data key="d7">2</data>
+</edge>
+<edge source="1155" target="1392">
+  <data key="d7">2</data>
+</edge>
+<edge source="1155" target="1591">
+  <data key="d7">2</data>
+</edge>
+<edge source="2042" target="2037">
+  <data key="d7">2</data>
+</edge>
+<edge source="1926" target="1925">
+  <data key="d7">2</data>
+</edge>
+<edge source="102" target="108">
+  <data key="d7">2</data>
+</edge>
+<edge source="1160" target="1162">
+  <data key="d7">2</data>
+</edge>
+<edge source="1160" target="1392">
+  <data key="d7">2</data>
+</edge>
+<edge source="1162" target="1154">
+  <data key="d7">2</data>
+</edge>
+<edge source="1063" target="1537">
+  <data key="d7">3</data>
+</edge>
+<edge source="301" target="307">
+  <data key="d7">2</data>
+</edge>
+<edge source="301" target="302">
+  <data key="d7">5</data>
+</edge>
+<edge source="815" target="1462">
+  <data key="d7">6</data>
+</edge>
+<edge source="525" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="919" target="910">
+  <data key="d7">2</data>
+</edge>
+<edge source="919" target="915">
+  <data key="d7">2</data>
+</edge>
+<edge source="1221" target="522">
+  <data key="d7">2</data>
+</edge>
+<edge source="858" target="851">
+  <data key="d7">2</data>
+</edge>
+<edge source="858" target="852">
+  <data key="d7">2</data>
+</edge>
+<edge source="858" target="877">
+  <data key="d7">2</data>
+</edge>
+<edge source="1213" target="1075">
+  <data key="d7">2</data>
+</edge>
+<edge source="2244" target="124">
+  <data key="d7">2</data>
+</edge>
+<edge source="1922" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="1169" target="1159">
+  <data key="d7">3</data>
+</edge>
+<edge source="1169" target="1173">
+  <data key="d7">2</data>
+</edge>
+<edge source="1173" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="302" target="307">
+  <data key="d7">2</data>
+</edge>
+<edge source="367" target="1900">
+  <data key="d7">2</data>
+</edge>
+<edge source="522" target="108">
+  <data key="d7">2</data>
+</edge>
+<edge source="522" target="1098">
+  <data key="d7">2</data>
+</edge>
+<edge source="1086" target="453">
+  <data key="d7">2</data>
+</edge>
+<edge source="1086" target="454">
+  <data key="d7">2</data>
+</edge>
+<edge source="1086" target="1412">
+  <data key="d7">2</data>
+</edge>
+<edge source="1535" target="481">
+  <data key="d7">2</data>
+</edge>
+<edge source="989" target="988">
+  <data key="d7">5</data>
+</edge>
+<edge source="910" target="915">
+  <data key="d7">2</data>
+</edge>
+<edge source="567" target="565">
+  <data key="d7">2</data>
+</edge>
+<edge source="852" target="1597">
+  <data key="d7">2</data>
+</edge>
+<edge source="988" target="1176">
+  <data key="d7">2</data>
+</edge>
+<edge source="820" target="812">
+  <data key="d7">7</data>
+</edge>
+<edge source="1214" target="1203">
+  <data key="d7">2</data>
+</edge>
+<edge source="1214" target="1220">
+  <data key="d7">2</data>
+</edge>
+<edge source="1071" target="1059">
+  <data key="d7">2</data>
+</edge>
+<edge source="1071" target="1065">
+  <data key="d7">2</data>
+</edge>
+<edge source="623" target="604">
+  <data key="d7">2</data>
+</edge>
+<edge source="2192" target="124">
+  <data key="d7">2</data>
+</edge>
+<edge source="1075" target="411">
+  <data key="d7">2</data>
+</edge>
+<edge source="1075" target="1061">
+  <data key="d7">2</data>
+</edge>
+<edge source="124" target="2204">
+  <data key="d7">2</data>
+</edge>
+<edge source="812" target="604">
+  <data key="d7">2</data>
+</edge>
+<edge source="812" target="1537">
+  <data key="d7">2</data>
+</edge>
+<edge source="1098" target="1721">
+  <data key="d7">2</data>
+</edge>
+<edge source="2006" target="481">
+  <data key="d7">2</data>
+</edge>
+<edge source="454" target="453">
+  <data key="d7">4</data>
+</edge>
+<edge source="454" target="1412">
+  <data key="d7">2</data>
+</edge>
+<edge source="453" target="1412">
+  <data key="d7">2</data>
+</edge>
+</graph></graphml>

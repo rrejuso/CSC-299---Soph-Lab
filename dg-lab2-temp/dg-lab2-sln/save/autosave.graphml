@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="budget" attr.type="double" for="node" id="d6"/>
+<key attr.name="gross" attr.type="double" for="node" id="d5"/>
+<key attr.name="gender" attr.type="string" for="node" id="d4"/>
+<key attr.name="_expanded" attr.type="long" for="node" id="d3"/>
+<key attr.name="_depth" attr.type="long" for="node" id="d2"/>
+<key attr.name="bipartite" attr.type="long" for="node" id="d1"/>
+<key attr.name="label" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="100">
+  <data key="d0">&lt;Dwayne_Johnson&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">0</data>
+  <data key="d3">1</data>
+  <data key="d4">male</data>
+</node>
+<node id="101">
+  <data key="d0">&lt;Tooth_Fairy_(2010_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">48000000.0</data>
+  <data key="d6">112500000.0</data>
+</node>
+<node id="102">
+  <data key="d0">&lt;Southland_Tales&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">17000000.0</data>
+  <data key="d6">374743.0</data>
+</node>
+<node id="103">
+  <data key="d0">&lt;Gridiron_Gang&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">30000000.0</data>
+  <data key="d6">179480851.0</data>
+</node>
+<node id="104">
+  <data key="d0">&lt;San_Andreas_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">110000000.0</data>
+  <data key="d6">474000000.0</data>
+</node>
+<node id="105">
+  <data key="d0">&lt;Snitch_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">15000000.0</data>
+  <data key="d6">57800000.0</data>
+</node>
+<node id="106">
+  <data key="d0">&lt;Empire_State_(2013_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">11000000.0</data>
+  <data key="d6">3700000.0</data>
+</node>
+<node id="107">
+  <data key="d0">&lt;Be_Cool&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">53000000.0</data>
+  <data key="d6">95200000.0</data>
+</node>
+<node id="108">
+  <data key="d0">&lt;Planet_51&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">49000000.0</data>
+  <data key="d6">105600000.0</data>
+</node>
+<node id="109">
+  <data key="d0">&lt;Faster_(2010_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+  <data key="d5">24000000.0</data>
+  <data key="d6">35600000.0</data>
+</node>
+<node id="110">
+  <data key="d0">&lt;Race_to_Witch_Mountain&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">50000000.0</data>
+  <data key="d6">106400000.0</data>
+</node>
+<node id="111">
+  <data key="d0">&lt;The_Fast_and_the_Furious&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">759000000.0</data>
+  <data key="d6">3900000000.0</data>
+</node>
+<node id="112">
+  <data key="d0">&lt;Journey_2:_The_Mysterious_Island&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">79000000.0</data>
+  <data key="d6">335300000.0</data>
+</node>
+<node id="113">
+  <data key="d0">&lt;Beyond_the_Mat&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">500000.0</data>
+  <data key="d6">2053648.0</data>
+</node>
+<node id="114">
+  <data key="d0">&lt;The_Mummy_Returns&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">98000000.0</data>
+  <data key="d6">433000000.0</data>
+</node>
+<node id="115">
+  <data key="d0">&lt;The_Scorpion_King&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">60000000.0</data>
+  <data key="d6">165300000.0</data>
+</node>
+<node id="116">
+  <data key="d0">&lt;The_Rundown&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">85000000.0</data>
+  <data key="d6">80900000.0</data>
+</node>
+<node id="117">
+  <data key="d0">&lt;Central_Intelligence&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">50000000.0</data>
+  <data key="d6">216500000.0</data>
+</node>
+<node id="118">
+  <data key="d0">&lt;Hercules_(2014_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">100000000.0</data>
+  <data key="d6">244800000.0</data>
+</node>
+<node id="119">
+  <data key="d0">&lt;G.I._Joe:_Retaliation&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">130000000.0</data>
+  <data key="d6">375700000.0</data>
+</node>
+<node id="120">
+  <data key="d0">&lt;The_Game_Plan_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">22000000.0</data>
+  <data key="d6">147800000.0</data>
+</node>
+<node id="121">
+  <data key="d0">&lt;Get_Smart_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">80000000.0</data>
+  <data key="d6">230700000.0</data>
+</node>
+<node id="122">
+  <data key="d0">&lt;Walking_Tall_(2004_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">46000000.0</data>
+  <data key="d6">57223890.0</data>
+</node>
+<node id="123">
+  <data key="d0">&lt;Walking_Tall_(2004_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">46000000.0</data>
+  <data key="d6">46437717.0</data>
+</node>
+<node id="124">
+  <data key="d0">&lt;G.I._Joe_(film_series)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">305000000.0</data>
+  <data key="d6">678209722.0</data>
+</node>
+<node id="125">
+  <data key="d0">&lt;Baywatch_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">nan</data>
+  <data key="d6">nan</data>
+</node>
+<node id="126">
+  <data key="d0">&lt;Jumanji_(2017_sequel)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">nan</data>
+  <data key="d6">nan</data>
+</node>
+<node id="127">
+  <data key="d0">&lt;Bret_Hart:_Survival_of_the_Hitman&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">nan</data>
+  <data key="d6">nan</data>
+</node>
+<node id="128">
+  <data key="d0">&lt;Longshot_(film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">nan</data>
+  <data key="d6">nan</data>
+</node>
+<node id="129">
+  <data key="d0">&lt;Moana_(2016_film)&gt;</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+  <data key="d5">nan</data>
+  <data key="d6">nan</data>
+</node>
+<node id="130">
+  <data key="d0">&lt;Ashley_Judd&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="131">
+  <data key="d0">&lt;Stephen_Merchant&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="132">
+  <data key="d0">&lt;Julie_Andrews&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="133">
+  <data key="d0">&lt;Wallace_Shawn&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="134">
+  <data key="d0">&lt;Miranda_Richardson&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="135">
+  <data key="d0">&lt;Sarah_Michelle_Gellar&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="136">
+  <data key="d0">&lt;Justin_Timberlake&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="137">
+  <data key="d0">&lt;Bai_Ling&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="138">
+  <data key="d0">&lt;Mandy_Moore&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="139">
+  <data key="d0">&lt;Seann_William_Scott&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="140">
+  <data key="d0">&lt;Xzibit&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="141">
+  <data key="d0">&lt;Kevin_Dunn&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="142">
+  <data key="d0">&lt;Leon_Rippy&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="143">
+  <data key="d0">&lt;Carla_Gugino&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="144">
+  <data key="d0">&lt;Alexandra_Daddario&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="145">
+  <data key="d0">&lt;Archie_Panjabi&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="146">
+  <data key="d0">&lt;Paul_Giamatti&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="147">
+  <data key="d0">&lt;Ioan_Gruffudd&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="148">
+  <data key="d0">&lt;Benjamin_Bratt&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="149">
+  <data key="d0">&lt;Jon_Bernthal&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="150">
+  <data key="d0">&lt;Barry_Pepper&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="151">
+  <data key="d0">&lt;Susan_Sarandon&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="152">
+  <data key="d0">&lt;Michael_Kenneth_Williams&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">None</data>
+</node>
+<node id="153">
+  <data key="d0">&lt;Liam_Hemsworth&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="154">
+  <data key="d0">&lt;Emma_Roberts&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="155">
+  <data key="d0">&lt;John_Travolta&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="156">
+  <data key="d0">&lt;Harvey_Keitel&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="157">
+  <data key="d0">&lt;Uma_Thurman&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="158">
+  <data key="d0">&lt;Cedric_the_Entertainer&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="159">
+  <data key="d0">&lt;Christina_Milian&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="160">
+  <data key="d0">&lt;Steven_Tyler&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="161">
+  <data key="d0">&lt;Vince_Vaughn&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="162">
+  <data key="d0">&lt;Andre_Benjamin&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">None</data>
+</node>
+<node id="163">
+  <data key="d0">&lt;Jessica_Biel&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">female</data>
+</node>
+<node id="164">
+  <data key="d0">&lt;John_Cleese&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="165">
+  <data key="d0">&lt;Gary_Oldman&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="166">
+  <data key="d0">&lt;Justin_Long&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<node id="167">
+  <data key="d0">&lt;Billy_Bob_Thornton&gt;</data>
+  <data key="d1">0</data>
+  <data key="d2">2</data>
+  <data key="d3">0</data>
+  <data key="d4">male</data>
+</node>
+<edge source="100" target="101"/>
+<edge source="100" target="102"/>
+<edge source="100" target="103"/>
+<edge source="100" target="104"/>
+<edge source="100" target="105"/>
+<edge source="100" target="106"/>
+<edge source="100" target="107"/>
+<edge source="100" target="108"/>
+<edge source="100" target="109"/>
+<edge source="100" target="110"/>
+<edge source="100" target="111"/>
+<edge source="100" target="112"/>
+<edge source="100" target="113"/>
+<edge source="100" target="114"/>
+<edge source="100" target="115"/>
+<edge source="100" target="116"/>
+<edge source="100" target="117"/>
+<edge source="100" target="118"/>
+<edge source="100" target="119"/>
+<edge source="100" target="120"/>
+<edge source="100" target="121"/>
+<edge source="100" target="122"/>
+<edge source="100" target="123"/>
+<edge source="100" target="124"/>
+<edge source="100" target="125"/>
+<edge source="100" target="126"/>
+<edge source="100" target="127"/>
+<edge source="100" target="128"/>
+<edge source="100" target="129"/>
+<edge source="101" target="130"/>
+<edge source="101" target="131"/>
+<edge source="101" target="132"/>
+<edge source="102" target="133"/>
+<edge source="102" target="134"/>
+<edge source="102" target="135"/>
+<edge source="102" target="136"/>
+<edge source="102" target="137"/>
+<edge source="102" target="138"/>
+<edge source="102" target="139"/>
+<edge source="103" target="140"/>
+<edge source="103" target="141"/>
+<edge source="103" target="142"/>
+<edge source="104" target="143"/>
+<edge source="104" target="144"/>
+<edge source="104" target="145"/>
+<edge source="104" target="146"/>
+<edge source="104" target="147"/>
+<edge source="105" target="148"/>
+<edge source="105" target="149"/>
+<edge source="105" target="150"/>
+<edge source="105" target="151"/>
+<edge source="105" target="152"/>
+<edge source="106" target="153"/>
+<edge source="106" target="154"/>
+<edge source="107" target="155"/>
+<edge source="107" target="156"/>
+<edge source="107" target="157"/>
+<edge source="107" target="158"/>
+<edge source="107" target="159"/>
+<edge source="107" target="160"/>
+<edge source="107" target="161"/>
+<edge source="107" target="162"/>
+<edge source="108" target="139"/>
+<edge source="108" target="163"/>
+<edge source="108" target="164"/>
+<edge source="108" target="165"/>
+<edge source="108" target="166"/>
+<edge source="109" target="167"/>
+</graph></graphml>
